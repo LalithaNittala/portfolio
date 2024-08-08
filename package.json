@@ -32,3 +32,8 @@
     "vanilla-tilt": "^1.8.0"
   }
 }
+{
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
